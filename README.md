@@ -1,6 +1,16 @@
 # question-voting-app
 Question voting app with administrative access 
 
+Features:
+    
+    Administration panel
+    Add User with access permission
+    Add Group
+    CRUD Question
+    CRUD Choices
+    CRUD Votes
+    
+
 Development Environment:
 
    Install Python with Brew
